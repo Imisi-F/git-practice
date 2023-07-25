@@ -1,5 +1,2 @@
 Hello from Notepad
-Let’s see this through!
-Hello :)
-Hi
-:P
+Branch 2
