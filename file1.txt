@@ -1,3 +1,5 @@
 Hello from Notepad
 Let’s see this through!
 Hello :)
+
+New sentence added :P
